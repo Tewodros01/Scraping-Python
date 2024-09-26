@@ -1,0 +1,27 @@
+def sectors():
+  return [
+    'Accounting, Finance, and Insurance',
+    'Administrative and Secretarial Services',
+    'Advertising, Media Journalism and Public Relations',
+    'Agriculture, Forestry, and Environmental Science',
+    'Architecture, Design, and Construction',
+    'Banking, Investment and Insurance',
+    'Business and Management',
+    'Communications, Marketing, and Sales',
+    'Consultancy, Training and Education',
+    'Creative Arts, Event Management and Entertainment',
+    'Engineering and Technology',
+    'Health and Wellness',
+    'Hospitality, Tourism, and Customer Service',
+    'Human Resources, Recruitment, and Organizational Development',
+    'International Development and NGO',
+    'Law, Legal Services, and Public Administration',
+    'Logistics, Supply Chain, and Transportation',
+    'Manufacturing and Production',
+    'Natural and Social Sciences',
+    'Product Development',
+    'Product, Program, and Project Management',
+    'Quality Assurance, Safety, and Compliance',
+    'Relationship and Stakeholder Management',
+    'Retail, Wholesale, and Inventory Management'
+  ]
